@@ -4,3 +4,4 @@
 - 🚀 03 - Random Hex Color Generator
 - 🚀 04 - Modal / Popup
 - 🚀 05 - Palindrome Checker
+- 🚀 06 - Vowel Counter App

@@ -28,3 +28,5 @@ const generateNumber = () => {
 };
 
 randomButton.addEventListener('click', generateNumber);
+
+generateNumber();

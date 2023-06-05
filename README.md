@@ -6,3 +6,4 @@
 - 🚀 05 - Palindrome Checker
 - 🚀 06 - Vowel Counter App
 - 🚀 07 - Click to Copy
+- 🚀 09 - Input Field Character Count

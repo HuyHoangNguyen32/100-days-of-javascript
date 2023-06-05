@@ -7,3 +7,4 @@
 - 🚀 06 - Vowel Counter App
 - 🚀 07 - Click to Copy
 - 🚀 09 - Input Field Character Count
+- 🚀 12 - API Geolocation
